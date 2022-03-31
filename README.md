@@ -57,6 +57,10 @@
 
 - Compras no Supermercado
 #
+### 6 - Desafios de Código (For Job)
+
+- Sequência de Collatz
+:octocat: [Link](https://github.com/debhValois/dio-desafios-de-codigo-javascript/blob/5292314207e7edf09674b2e73a9956afe3a0ce8f/6%20-%20Desafio%20Sequ%C3%AAncia%20Collatz/collatz.js)
 
 ## :octocat: Autora : 
 <table>
